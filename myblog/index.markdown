@@ -4,4 +4,8 @@
 
 layout: home
 ---
-{% link markdown_examples.markdown %}
+[Markdown Reference Document]({% link markdown_examples.markdown %})
+
+# [TEST]({% link _docs/_user_guide/onboarding_with_braze.md %})
+
+[TEST]({% link _posts/2021-02-18-welcome-to-jekyll.markdown %})

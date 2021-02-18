@@ -1,0 +1,28 @@
+---
+nav_title: January
+page_order: 12
+---
+# January 2017
+
+## New Conversion Events for Email Messages
+
+You can now specify a conversion event for "opened email from campaign" or "clicked email from campaign." Learn more about conversion events and scheduling campaigns [here][16].
+
+## CSV Export With Control Group
+When exporting a user campaign CSV, you can now include control groups in the data. Learn more about exporting dashboard data [here][17].
+
+## Welcome/Double Opt-In Emails
+You can now use a newly created “Added Email Address” action-based trigger—making it easy to send double opt-in or welcome emails when a user first adds their email address. Learn more about best practices for sending emails [here][18].
+
+## List-Unsubscribe Email Header
+You can now configureList-Unsubscribe headers that have a subscription status of "subscribed/opted in users" or "opted in users only." This adds an “Unsubscribe” link in Gmail next to the sender’s name, which can improve deliverability ratings.
+
+## Usability Updates
+You can now click a button to minimize the Canvas header for smaller screens and hover over full names of your Canvases and Campaigns on your user profile in Braze.
+
+
+
+[16]: {{site.baseurl}}/user_guide/engagement_tools/campaigns/scheduling_and_organizing/scheduling_your_campaign/
+[17]: {{site.baseurl}}/user_guide/data_and_analytics/exporting_dashboard_data/#exporting-dashboard-data
+[18]: {{site.baseurl}}/help/troubleshooting_guide/troubleshooting_guide/#email
+[98]:{{site.baseurl}}/user_guide/onboarding/platform_administrative_features/#authentication-rules
