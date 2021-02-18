@@ -4,4 +4,4 @@
 
 layout: home
 ---
-{% link markdown_examples.markdnwo %}
+{% link markdown_examples.markdown %}
