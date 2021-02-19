@@ -16,9 +16,9 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
  
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
   
-An image, located within /images
+An image, via /assets/img
 
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+![an image alt text](/assets/img/pslogo.png "an image title")
 
 * A bulletted list
 - alternative syntax 1
@@ -60,3 +60,10 @@ Finally, horizontal lines
  
 ----
 ****
+
+and now, a table
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
